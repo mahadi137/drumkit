@@ -23,7 +23,7 @@ document.addEventListener ("keydown", function (event) {
 
 
 
-//Coomon fucntion for detecting both way key press
+//Common function for detecting both way key press
 
 function keyPressed (key) {
   switch (key) {
